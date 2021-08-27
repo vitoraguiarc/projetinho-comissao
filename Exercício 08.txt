@@ -1,0 +1,11 @@
+Uma empresa precisa calcular a comissão dos seus vendedores. O cálculo é efetuado da seguinte forma:
+
+- O vendedor que vender acima de 10.000 reais e que trabalha na empresa há mais de 1 ano receberá 5% de comissão sobre as vendas;
+
+- O vendedor que vender acima de 20.000 reais e que trabalha na empresa há mais de 1 ano receberá 10% de comissão sobre as vendas;
+
+- Em qualquer outra situação o vendedor receberá 3% de comissão sobre as vendas.
+
+O sistema deverá solicitar o nome do vendedor, o tempo de trabalho em anos e o valor total de vendas. 
+
+Apresentar o nome do vendedor e o valor da comissão que lhe cabe.
